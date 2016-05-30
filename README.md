@@ -1,5 +1,9 @@
 # Messenger for Desktop
 
+I literally only cloned this so I could remove the behavior that causes the app to quit when the escape key is hit.
+
+---
+
 <!-- [(Looking for Maintainers)](https://github.com/Aluxian/Facebook-Messenger-Desktop/issues/407) -->
 
 [![Join the chat at gitter.im/Aluxian/Facebook-Messenger-Desktop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/Facebook-Messenger-Desktop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
